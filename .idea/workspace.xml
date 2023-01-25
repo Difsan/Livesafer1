@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdf04989-6691-4c27-8d41-0472db719d28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functional/other/Excercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional/other/primenumber/Excercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional/other/primenumber/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional/recursion/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional/recursion/NElementPi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/other/funtionalphonebook/FunPhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Excercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/recursion/Excercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Excercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Excercise5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/recursion/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/other/Excercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/other/funtionalphonebook/Excercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
