@@ -12,7 +12,7 @@ public class PrimeNumber implements Function<Integer,Integer>, Predicate<Integer
 
     @Override
     public boolean test(Integer integer) {
-        for (int i=2; i<integer; ++i){
+        for (int i=2; i<integer; i++){
             if (integer % i == 0){
                 return false;
             }
